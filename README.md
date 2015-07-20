@@ -37,3 +37,19 @@ You will learn how to use Jasmine to write a number of tests against a pre-exist
 12. Write a test that ensures when the loadFeed function is called and completes its work, there is at least a single .entry element within the .feed container. Remember, loadFeed() is asynchronous so this test wil require the use of Jasmine's beforeEach and asynchronous done() function.
 13. Write a test that ensures when a new feed is loaded by the loadFeed function that the content actually changes. Remember, loadFeed() is asynchronous.
 14. When complete - all of your tests should pass.
+
+
+## How to run the application
+
+* Download the repository to your computer, unzip, and then open the index.html in your preferred browser. The test results will be displayed at the bottom of the page.
+
+## Resources
+
+1. [Javascript Testing - Udacity](https://www.udacity.com/course/ud549-nd)
+2. [Introduction to Jasmine](http://jasmine.github.io/2.0/introduction.html)
+3. [Udacity Discussion Board](https://discussions.udacity.com/c/nd001-2014-12-03/project-6)
+4. [Selecting a class with jQuery](http://api.jquery.com/class-selector/)
+
+**Special Thanks**
+
+To my fellow classmates and instructors that provide great questions and answers to some of the code challenges for this project.
